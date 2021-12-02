@@ -6,10 +6,10 @@
 ---
 ### Introduction
 
-This project simulates the creation of a dataset based on an Irish traditional music session. I've drawn on my own experinece in the subject matter and come up with a series of variables, and then tried to simulate their qualities to create a dataset.
+This project simulates the creation of a dataset based on music sessions in a pub over the period of a month. I've drawn on my own experinece in the subject matter and come up with a series of variables, and then tried to simulate their qualities to create a dataset.
 
 ### Contents of repositry
-This repositry contains a 2 jupyter notebook entitled `the_session.ipynb`, this README.md, a requirements.txt file listing all of the required python packages, plus a .gitignore file.
+This repositry contains a 2 jupyter notebook entitled `the_session.ipynb`, this README.md, a requirements.txt file listing all of the required python packages, and a .gitignore file.
 
 ### Installation
 The jupyter notebook requires a python environment with all of the listed packages in the requirements.txt file installed. The easiest way to do this is with Anaconda which is available from here - https://docs.anaconda.com/anaconda/install/.
