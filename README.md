@@ -15,10 +15,10 @@ This project simulates the creation of a dataset based on music sessions in a pu
 
 ### Contents of repositry
 This repositry contains:
-- **the_session.ipynb** - jupyter notebook with the main bulk of the project
+- **the_session.ipynb** - jupyter notebook with the main project
 - **README.md** - this file
-- **requirements.txt** text file listing all of the required python packages
-- **.gitignore** - afile containing filenames/packages for `git` to ignore
+- **requirements.txt** - text file listing all of the required python packages
+- **.gitignore** - file containing filenames/packages for `git` to ignore
 - **data** - folder containing csv files outputted from the notebook
 - **images** - images used in the notebook
 
