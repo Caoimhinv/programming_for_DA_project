@@ -3,7 +3,7 @@
 # Programming for Data Analysis
 ## GMIT HDip in Computing in Data Analytics
 ## Autumn/Winter 2021 Project
----
+
 
 # **"The Session"**
 
